@@ -1,0 +1,24 @@
+{
+    "name": "Alice",
+    "age": 30,
+    "is_student": false,
+    "courses": [
+        "Mathematics",
+        "Computer Science"
+    ],
+    "address": {
+        "street": "123 Main St",
+        "city": "Wonderland",
+        "postal_code": "12345"
+    },
+    "phone_numbers": [
+        {
+            "type": "home",
+            "number": "555-1234"
+        },
+        {
+            "type": "work",
+            "number": "555-5678"
+        }
+    ]
+}
